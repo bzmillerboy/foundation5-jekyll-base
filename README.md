@@ -1,6 +1,6 @@
-# Foundation Compass Template
+# Foundation Compass Template + Jekyll
 
-The easiest way to get started with Foundation + Compass.
+The easiest way to get started with Foundation + Compass + Jekyll.
 
 ## Requirements
 
@@ -13,6 +13,7 @@ The easiest way to get started with Foundation + Compass.
 
   * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
   * Run `bower install` to install the latest version of Foundation
+  * Run `$ gem install jekyll` to install jekyll
   
 Then when you're working on your project, just run the following command:
 
